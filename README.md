@@ -1,2 +1,1 @@
-# plate_reader
-Instructions and scripts for the BioTek Synergy H1M
+# Instructions and scripts for our BioTek Synergy H1M
